@@ -98,36 +98,51 @@ https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 #EXTINF:-1 tvg-id="Multimania.ru@SD",Мультимания (576p)
+#EXTVLCOPT:network-caching=1000
 https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NSCPlus.ru@HD",NSC+ (720p)
+#EXTVLCOPT:network-caching=1000
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1 tvg-id="Channel12.ru@SD",12 канал (1080p)
+#EXTVLCOPT:network-caching=1000
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 #EXTINF:-1 tvg-id="U.ru@SD",Ю (720p)
+#EXTVLCOPT:network-caching=1000
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTWorld.ru@SD",START World
+#EXTVLCOPT:network-caching=1000
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD (1080p)
+#EXTVLCOPT:network-caching=1000
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия Культура (+7) (1080p)
+#EXTVLCOPT:network-caching=1000
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru@SD",Домашний
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD",Моя Планета (720p)
+#EXTVLCOPT:network-caching=1000
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@SD",Carousel (1080p)
+#EXTVLCOPT:network-caching=1000
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD",Живая Планета (576p)
+#EXTVLCOPT:network-caching=1000
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru@SD",Кинопоказ (576p)
+#EXTVLCOPT:network-caching=1000
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="KinoSat.ru@SD",КИНОСАТ (576p)
+#EXTVLCOPT:network-caching=1000
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru@SD",ТНТ (+4) (576p)
+#EXTVLCOPT:network-caching=1000
 http://31.148.48.15/TNT/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD",СТС (+4) (576p)
+#EXTVLCOPT:network-caching=1000
 http://31.148.48.15/STS/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru@SD",Рен ТВ
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
