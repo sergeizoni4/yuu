@@ -148,3 +148,15 @@ http://31.148.48.15/STS/index.m3u8
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTINF:32,NUR TV
+#EXTVLCOPT:network-caching=1000
+http://146.120.213.172:8086/0.m3u8
+#EXTINF:33,OSH Pirim
+#EXTVLCOPT:network-caching=1000
+http://213.145.147.166/oshpirim.m3u8
+#EXTINF:34,7 Canal
+#EXTVLCOPT:network-caching=1000
+http://212.112.106.117:8086/0_596357.ts
+#EXTINF:35,Region
+#EXTVLCOPT:network-caching=1000
+http://31.192.249.68:8080/0.m3u8
