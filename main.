@@ -1,162 +1,153 @@
 #EXTM3U
-#EXTINF:30,24KZ
+#EXTINF:30 group-title="No Group",24KZ
 #EXTVLCOPT:network-caching=1000
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
-#EXTINF:30,Abai TV (720p)
+#EXTINF:30 group-title="No Group",Abai TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:30,Balapan TV
+#EXTINF:30 group-title="No Group",Balapan TV
 #EXTVLCOPT:network-caching=1000
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:61,Manas TV (1080p)
+#EXTINF:61 group-title="No Group",Manas TV (1080p)
 #EXTVLCOPT:network-caching=1000
 http://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:30,Qazaqstan International (1080p)
+#EXTINF:30 group-title="No Group",Qazaqstan International (1080p)
 #EXTVLCOPT:network-caching=1000
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1 tvg-id="KTK.kz@SD",КТК (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTK.kz@SD" group-title="No Group",КТК (360p) [Not 24/7]
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:24,Новое телевидение (576p) [Not 24/7]
+#EXTINF:24 group-title="No Group",Новое телевидение (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:20,Cinema
+#EXTINF:20 group-title="No Group",Cinema
 #EXTVLCOPT:network-caching=1000
 http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:25,Аист ТВ
+#EXTINF:25 group-title="No Group",Аист ТВ
 #EXTVLCOPT:network-caching=1000
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:15,BigAsia HD 
+#EXTINF:15 group-title="No Group",BigAsia HD
 #EXTVLCOPT:network-caching=1000
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:36,Звезда (1080p) [Not 24/7]
+#EXTINF:36 group-title="No Group",Звезда (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:20,Известия
+#EXTINF:20 group-title="No Group",Известия
 #EXTVLCOPT:network-caching=1000
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:26,KINO TV
+#EXTINF:26 group-title="No Group",KINO TV
 #EXTVLCOPT:network-caching=1000
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:24,Мир (1080p) [Not 24/7]
+#EXTINF:24 group-title="No Group",Мир (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:24,Мир 24 (1080p)
+#EXTINF:24 group-title="No Group",Мир 24 (1080p)
 #EXTVLCOPT:network-caching=1000
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:21,Наука
+#EXTINF:21 group-title="No Group",Наука
 #EXTVLCOPT:network-caching=1000
 https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:43200,Первый канал
+#EXTINF:43200 tvg-logo="https://iptvx.one/picons/pervy.png" group-title="No Group",Первый канал
 #EXTVLCOPT:network-caching=1000
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:46,Перец International
-#EXTVLCOPT:network-caching=1000
-https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
-#EXTINF:60,NAT_Prima
+http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjMvMXR2LzF0dmNoL3N0cmVhbXMuanNvbg
+#EXTINF:60 tvg-logo="https://iptvx.one/picons/prima.png" group-title="No Group",Прима
 #EXTVLCOPT:network-caching=1000
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:22,Пятница!
+#EXTINF:22 tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="No Group",Пятница!
 #EXTVLCOPT:network-caching=1000
-https://vod.tuva.ru/friday/index.m3u8
-#EXTINF:43,Радио Хит (Орск) (720p)
+http://185.46.16.239:8000/Pyatnitsa
+#EXTINF:20 tvg-logo="https://iptvx.one/picons/rbk.png" group-title="No Group",РБК
 #EXTVLCOPT:network-caching=1000
-http://lova.me/hls/hithd.m3u8
-#EXTINF:20,РБК (576p)
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:18 tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="No Group",ТВ Центр
 #EXTVLCOPT:network-caching=1000
-https://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:18,ТВ Центр
-#EXTVLCOPT:network-caching=1000
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:30,Твое TV HD
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:30 tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" group-title="No Group",Твое TV HD
 #EXTVLCOPT:network-caching=1000
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:36,Толк HD
-#EXTVLCOPT:network-caching=1000
-http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:31,312 Кино (406p)
+#EXTINF:31 group-title="No Group",312 Кино (406p)
 #EXTVLCOPT:network-caching=1000
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:28,312 ТВ (406p)
+#EXTINF:28 group-title="No Group",312 ТВ (406p)
 #EXTVLCOPT:network-caching=1000
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:30,TV1 KG (1080p)
+#EXTINF:30 group-title="No Group",TV1 KG (1080p)
 #EXTVLCOPT:network-caching=1000
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:24,УТРК (480p) [Not 24/7]
+#EXTINF:24 group-title="No Group",УТРК (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
-#EXTINF:0,УТРК Ала-Тоо 24 (480p) [Not 24/7]
+#EXTINF:0 group-title="No Group",УТРК Ала-Тоо 24 (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
-#EXTINF:0,УТРК Баластан (480p) [Not 24/7]
+#EXTINF:0 group-title="No Group",УТРК Баластан (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
-#EXTINF:0,УТРК Музыка (480p) [Not 24/7]
+#EXTINF:0 group-title="No Group",УТРК Музыка (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
-#EXTINF:22,УТРК Спорт (480p) [Not 24/7]
+#EXTINF:22 group-title="No Group",УТРК Спорт (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
-#EXTINF:-1 tvg-id="Multimania.ru@SD",Мультимания (576p)
+#EXTINF:-1 tvg-id="Multimania.ru@SD" group-title="No Group",Мультимания (576p)
 #EXTVLCOPT:network-caching=1000
 https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NSCPlus.ru@HD",NSC+ (720p)
+#EXTINF:-1 tvg-id="NSCPlus.ru@HD" group-title="No Group",NSC+ (720p)
 #EXTVLCOPT:network-caching=1000
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
-#EXTINF:-1 tvg-id="Channel12.ru@SD",12 канал (1080p)
+#EXTINF:-1 tvg-id="Channel12.ru@SD" group-title="No Group",12 канал (1080p)
 #EXTVLCOPT:network-caching=1000
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
-#EXTINF:-1 tvg-id="U.ru@SD",Ю (720p)
+#EXTINF:-1 tvg-id="U.ru@SD" group-title="No Group",Ю (720p)
 #EXTVLCOPT:network-caching=1000
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
-#EXTINF:-1 tvg-id="STARTWorld.ru@SD",START World
+#EXTINF:-1 tvg-id="STARTWorld.ru@SD" group-title="No Group",START World
 #EXTVLCOPT:network-caching=1000
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD (1080p)
+#EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="No Group",НТВ HD (1080p)
 #EXTVLCOPT:network-caching=1000
-https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия Культура (+7) (1080p)
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="No Group",Россия Культура
 #EXTVLCOPT:network-caching=1000
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="Domashniy.ru@SD",Домашний
+https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="No Group" catchup-type="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer",Домашний
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/17.m3u8
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD",Моя Планета (720p)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" group-title="No Group",Моя Планета (720p)
 #EXTVLCOPT:network-caching=1000
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@SD",Carousel (1080p)
+#EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="No Group",Карусель
 #EXTVLCOPT:network-caching=1000
-http://31.148.48.15/Karusel_HD/index.m3u8
-#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD",Живая Планета (576p)
+http://185.37.150.46/Karusel/index.m3u8
+#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="No Group",Живая Планета (576p)
 #EXTVLCOPT:network-caching=1000
-http://31.148.48.15/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1 tvg-id="Kinopokaz.ru@SD",Кинопоказ (576p)
+http://31.210.208.171:8080/zhivaya_planeta/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="Kinopokaz.ru@SD" group-title="No Group",Кинопоказ (576p)
 #EXTVLCOPT:network-caching=1000
 http://31.148.48.15/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-id="KinoSat.ru@SD",КИНОСАТ (576p)
+#EXTINF:-1 tvg-id="KinoSat.ru@SD" group-title="No Group",КИНОСАТ (576p)
 #EXTVLCOPT:network-caching=1000
 http://31.148.48.15/Kineko/index.m3u8
-#EXTINF:-1 tvg-id="TNT.ru@SD",ТНТ (+4) (576p)
+#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="No Group",ТНТ (+4) (576p)
 #EXTVLCOPT:network-caching=1000
-http://31.148.48.15/TNT/index.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD",СТС (+4) (576p)
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=https
+#EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://iptvx.one/picons/sts.png" group-title="No Group",СТС
 #EXTVLCOPT:network-caching=1000
-http://31.148.48.15/STS/index.m3u8
-#EXTINF:-1 tvg-id="RENTV.ru@SD",Рен ТВ
+http://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="No Group",Рен ТВ
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/14.m3u8
-#EXTINF:32,NUR TV
+http://194.152.35.17/ren_tv/index.m3u8
+#EXTINF:32 group-title="No Group",NUR TV
 #EXTVLCOPT:network-caching=1000
 http://146.120.213.172:8086/0.m3u8
-#EXTINF:33,OSH Pirim
+#EXTINF:33 group-title="No Group",OSH Pirim
 #EXTVLCOPT:network-caching=1000
 http://213.145.147.166/oshpirim.m3u8
-#EXTINF:34,7 Canal
+#EXTINF:34 group-title="No Group",7 Canal
 #EXTVLCOPT:network-caching=1000
 http://212.112.106.117:8086/0_596357.ts
-#EXTINF:35,Region
+#EXTINF:35 group-title="No Group",Region
 #EXTVLCOPT:network-caching=1000
 http://31.192.249.68:8080/0.m3u8
