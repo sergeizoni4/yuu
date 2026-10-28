@@ -151,3 +151,5 @@ http://212.112.106.117:8086/0_596357.ts
 #EXTINF:35 group-title="No Group",Region
 #EXTVLCOPT:network-caching=1000
 http://31.192.249.68:8080/0.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD",Nickelodeon CIS (1080p)
+https://stream8.cinerama.uz/1500/playlist.m3u8
