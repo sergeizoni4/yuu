@@ -151,5 +151,15 @@ http://212.112.106.117:8086/0.m3u8
 #EXTINF:35 group-title="No Group",Region
 #EXTVLCOPT:network-caching=1000
 http://31.192.249.68:8080/0.m3u8
-#EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD",Nickelodeon CIS (1080p)
+#EXTINF:36 tvg-id="NickelodeonCIS.kz@SD",Nickelodeon CIS (1080p)
 https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:37 tvg-id="Любимый HD", LubimyiHD
+https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:38 tvg-id="8 Kaнал",8 canal
+https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:39 tvg-id="ЮТС",UTCchannel
+https://stream.kgtv.online/hls/yutc/index.m3u8
+#EXTINF:40 tvg-id="tmedia",tmedia
+http://92.62.68.29:8086/0.m3u8
+#EXTINF:41 tvg-id="tv15",t15
+http://213.109.64.248/0.m3u8
