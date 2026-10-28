@@ -147,7 +147,7 @@ http://146.120.213.172:8086/0.m3u8
 http://213.145.147.166/oshpirim.m3u8
 #EXTINF:34 group-title="No Group",7 Canal
 #EXTVLCOPT:network-caching=1000
-http://212.112.106.117:8086/0_596357.ts
+http://212.112.106.117:8086/0.m3u8
 #EXTINF:35 group-title="No Group",Region
 #EXTVLCOPT:network-caching=1000
 http://31.192.249.68:8080/0.m3u8
