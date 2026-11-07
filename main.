@@ -90,8 +90,6 @@ http://31.192.249.68:8080/0.m3u8
 #EXTINF:-1 tvg-id="Любимый HD" group-title="No Group" ,LubimyiHD
 #EXTVLCOPT:network-caching=1000
 https://stream.ltv.kg/playlist.m3u8
-#EXTINF:-1 tvg-id="8 Kaнал" group-title="No Group" ,8 canal
-http://77.235.31.197:8080/0.m3u8
 #EXTINF:-1 tvg-id="ЮТС" group-title="No Group" ,UTCchannel
 https://stream.kgtv.online/hls/yutc/index.m3u8
 #EXTINF:-1 tvg-id="tmedia" group-title="No Group" ,tmedia
